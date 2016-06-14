@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LoRaBugBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -56,176 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YEOSADET
 
 [Document2]
-DocumentPath=ExtraComponents.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CEHYUIXK
-
-[Document3]
-DocumentPath=ExtraComponents.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GYHEFMNL
-
-[Document4]
-DocumentPath=Main.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EHCLCNMQ
-
-[Document5]
-DocumentPath=SX1276Radio.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PRXFCJTV
-
-[Document6]
-DocumentPath=SX1276Radio.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NNJQSVEX
-
-[Document9]
-DocumentPath=TIRefDesignConvertedLibs\CC26xx_7x7_Diff.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OIFSMQJP
-
-[Document10]
-DocumentPath=TIRefDesignConvertedLibs\CC26XX_7X7_DIFF_Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BNJCPYRJ
-
-[Document11]
-DocumentPath=FTDIUSB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBBHGDQV
-
-[Document12]
 DocumentPath=PatrickLibs\lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,9 +70,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EBLDJYTH
 
-[Document13]
+[Document3]
 DocumentPath=PatrickLibs\lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +89,194 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKFDEKWP
 
+[Document4]
+DocumentPath=ExtraComponents.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CEHYUIXK
+
+[Document5]
+DocumentPath=ExtraComponents.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GYHEFMNL
+
+[Document6]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EHCLCNMQ
+
+[Document7]
+DocumentPath=PCBFireflyCase.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQXLYMMB
+
+[Document8]
+DocumentPath=SX1276Radio.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PRXFCJTV
+
+[Document9]
+DocumentPath=SX1276Radio.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NTDAMSRR
+
+[Document11]
+DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UOGYLPVA
+
+[Document12]
+DocumentPath=TIRefDesignConvertedLibs\CC26xx_7x7_Diff.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OIFSMQJP
+
+[Document13]
+DocumentPath=TIRefDesignConvertedLibs\CC26XX_7X7_DIFF_Library.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNJCPYRJ
+
 [Document14]
+DocumentPath=FTDIUSB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBBHGDQV
+
+[Document15]
 DocumentPath=FTDIUSB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=Main.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=AdwaitLibs\Boards.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=AdwaitLibs\Boards.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSFMVCFO
 
-[Document18]
+[Document19]
 DocumentPath=Sparkfun\SparkFun-LED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=Sparkfun\SparkFun-LED.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEPKOPLR
 
-[Document20]
+[Document21]
 DocumentPath=Sparkfun\SparkFun-Resistors.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=Sparkfun\SparkFun-Resistors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Sparkfun\SparkFun-PowerIC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=Sparkfun\SparkFun-PowerIC.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=Sparkfun\SparkFun-DiscreteSemi.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Sparkfun\SparkFun-DiscreteSemi.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=Sparkfun\SparkFun-Electromechanical.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=Sparkfun\SparkFun-Electromechanical.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Sparkfun\SparkFun-Passives.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=Sparkfun\SparkFun-Passives.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIMCPXEC
 
-[Document30]
+[Document31]
 DocumentPath=Sparkfun\SparkFun-Retired.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Sparkfun\SparkFun-Retired.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXJGHSRN
 
-[Document32]
+[Document33]
 DocumentPath=Sparkfun\User-Submitted.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=Sparkfun\User-Submitted.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXCHKDWR
 
-[Document34]
+[Document35]
 DocumentPath=ManufacturerLibs\WS-PBSU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=ManufacturerLibs\WS-PBSU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=ManufacturerLibs\WS-TASV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=ManufacturerLibs\WS-TASV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,8 +684,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUKECLDM
 
-[Document38]
-DocumentPath=ManufacturerLibs\Peripherals.SchDoc
+[Document39]
+DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -684,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STARMFVE
 
-[Document39]
+[Document40]
 DocumentPath=ManufacturerLibs\Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,8 +718,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=LoRaBugBoard.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=PCBFireflyCaseTest.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LYPWAKIO
+
+[Document43]
+DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -764,7 +815,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for LoRaBugBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -949,10 +1000,18 @@ OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=Composite
 OutputName5=Composite Drawing
-OutputDocumentPath5=
+OutputDocumentPath5=C:\Users\Public\Documents\Altium\Projects\LoRaBugBoard\PCBFireflyCase.PcbDoc
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.82|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration5_Name2=OutputConfigurationParameter2
+Configuration5_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration5_Name3=OutputConfigurationParameter3
+Configuration5_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration5_Name4=OutputConfigurationParameter4
+Configuration5_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 OutputType6=FSM Print
 OutputName6=FSM Prints
 OutputDocumentPath6=
@@ -1704,6 +1763,222 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Boards.SCHLIB
+ComponentDesignItemID0=FIREFLY_MICRO_BOARD
+ComponentSymbolReference0=FIREFLY_MICRO_BOARD
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID1=ANTENNA_DN007
+ComponentSymbolReference1=ANTENNA_DN007
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID2=CAPACITOR
+ComponentSymbolReference2=CAPACITOR
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID3=CONN_COAX_1+4
+ComponentSymbolReference3=CONN_COAX_1+4
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID4=CRYSTAL
+ComponentSymbolReference4=CRYSTAL
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID5=FILTER_2PIN
+ComponentSymbolReference5=FILTER_2PIN
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID6=INDUCTOR
+ComponentSymbolReference6=INDUCTOR
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID7=RESISTOR
+ComponentSymbolReference7=RESISTOR
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=CC26XX_7X7_DIFF_Library.SchLib
+ComponentDesignItemID8=XTAL_4PIN_S
+ComponentSymbolReference8=XTAL_4PIN_S
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=ExtraComponents.SchLib
+ComponentDesignItemID9=Battery Terminal
+ComponentSymbolReference9=Battery Terminal
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=ExtraComponents.SchLib
+ComponentDesignItemID10=MicroUSB TypeB
+ComponentSymbolReference10=MicroUSB TypeB
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=ExtraComponents.SchLib
+ComponentDesignItemID11=NC7SZ04
+ComponentSymbolReference11=NC7SZ04
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=FTDI FT Series.IntLib
+ComponentDesignItemID12=FT232RQ-Tube
+ComponentSymbolReference12=FT232RQ-Tube
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=lib.SchLib
+ComponentDesignItemID13=CC2650F128RGZT
+ComponentSymbolReference13=CC2650F128RGZT
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=lib.SchLib
+ComponentDesignItemID14=Header 5X2
+ComponentSymbolReference14=Header 5X2
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Miscellaneous Devices.IntLib
+ComponentDesignItemID15=Cap Semi
+ComponentSymbolReference15=Cap Semi
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=SparkFun-DiscreteSemi.SCHLIB
+ComponentDesignItemID16=MOSFET-NCHANNELBSS138
+ComponentSymbolReference16=MOSFET-NCHANNELBSS138
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=SparkFun-LED.SCHLIB
+ComponentDesignItemID17=LED-GREEN0603
+ComponentSymbolReference17=LED-GREEN0603
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=SparkFun-LED.SCHLIB
+ComponentDesignItemID18=LED-RED0603
+ComponentSymbolReference18=LED-RED0603
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=SparkFun-Resistors.SCHLIB
+ComponentDesignItemID19=10KOHM-1/10W-1%(0603)0603
+ComponentSymbolReference19=10KOHM-1/10W-1%(0603)0603
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=SparkFun-Resistors.SCHLIB
+ComponentDesignItemID20=330OHM1/10W1%(0603)
+ComponentSymbolReference20=330OHM1/10W1%(0603)
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=SX1276_e268v01a.SchLib
+ComponentDesignItemID21=Cap Semi
+ComponentSymbolReference21=Cap Semi
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=SX1276_e268v01a.SchLib
+ComponentDesignItemID22=Cap
+ComponentSymbolReference22=Cap
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=SX1276_e268v01a.SchLib
+ComponentDesignItemID23=EXBN8VxxxJX
+ComponentSymbolReference23=EXBN8VxxxJX
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=SX1276_e268v01a.SchLib
+ComponentDesignItemID24=Inductor
+ComponentSymbolReference24=Inductor
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=SX1276_e268v01a.SchLib
+ComponentDesignItemID25=Jumper
+ComponentSymbolReference25=Jumper
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=SX1276_e268v01a.SchLib
+ComponentDesignItemID26=PE4259 RF Switch
+ComponentSymbolReference26=PE4259 RF Switch
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=SX1276_e268v01a.SchLib
+ComponentDesignItemID27=Resistor
+ComponentSymbolReference27=Resistor
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=SX1276_e268v01a.SchLib
+ComponentDesignItemID28=SAW Filter
+ComponentSymbolReference28=SAW Filter
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=SX1276_e268v01a.SchLib
+ComponentDesignItemID29=SMA
+ComponentSymbolReference29=SMA
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=SX1276_e268v01a.SchLib
+ComponentDesignItemID30=SX1276
+ComponentSymbolReference30=SX1276
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=SX1276_e268v01a.SchLib
+ComponentDesignItemID31=test_pin
+ComponentSymbolReference31=test_pin
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=SX1276_e268v01a.SchLib
+ComponentDesignItemID32=Xtal GND
+ComponentSymbolReference32=Xtal GND
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=TI Power Management Linear Regulator Single Channel LDO (400-7500mA).IntLib
+ComponentDesignItemID33=REG1117-3.3
+ComponentSymbolReference33=REG1117-3.3
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=WE-CBA_rev15a.intlib
+ComponentDesignItemID34=WE-CBA 0603,  782633620
+ComponentSymbolReference34=WE-CBA 0603,  782633620
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=WS-PBSU.SchLib
+ComponentDesignItemID35=WS-PBSU, 465031712505
+ComponentSymbolReference35=WS-PBSU, 465031712505
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1717,6 +1992,351 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Actual Part
+ParameterUpdate0=1
+ParameterName1=Approved by
+ParameterUpdate1=1
+ParameterName2=Approved_By
+ParameterUpdate2=1
+ParameterName3=Code_IEC
+ParameterUpdate3=1
+ParameterName4=Code_JEDEC
+ParameterUpdate4=1
+ParameterName5=Code_JEITA
+ParameterUpdate5=1
+ParameterName6=Comment
+ParameterUpdate6=1
+ParameterName7=Component Kind
+ParameterUpdate7=1
+ParameterName8=ComponentLink1 Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink1Description
+ParameterUpdate9=1
+ParameterName10=ComponentLink1URL
+ParameterUpdate10=1
+ParameterName11=ComponentLink2 Description
+ParameterUpdate11=1
+ParameterName12=ComponentLink2Description
+ParameterUpdate12=1
+ParameterName13=ComponentLink2URL
+ParameterUpdate13=1
+ParameterName14=ComponentLink3Description
+ParameterUpdate14=1
+ParameterName15=ComponentLink3URL
+ParameterUpdate15=1
+ParameterName16=Created by
+ParameterUpdate16=1
+ParameterName17=Created Date
+ParameterUpdate17=1
+ParameterName18=CURRENT
+ParameterUpdate18=1
+ParameterName19=Datasheet
+ParameterUpdate19=1
+ParameterName20=DatasheetVersion
+ParameterUpdate20=1
+ParameterName21=Description
+ParameterUpdate21=1
+ParameterName22=Design date
+ParameterUpdate22=1
+ParameterName23=Design_Date
+ParameterUpdate23=1
+ParameterName24=Designed by
+ParameterUpdate24=1
+ParameterName25=Designed_By
+ParameterUpdate25=1
+ParameterName26=DIELECTRIC
+ParameterUpdate26=1
+ParameterName27=DIST
+ParameterUpdate27=1
+ParameterName28=Eco-Plan
+ParameterUpdate28=1
+ParameterName29=Filename
+ParameterUpdate29=1
+ParameterName30=Fixed Output Options(V)
+ParameterUpdate30=1
+ParameterName31=Frequency
+ParameterUpdate31=1
+ParameterName32=GENDER
+ParameterUpdate32=1
+ParameterName33=IC
+ParameterUpdate33=1
+ParameterName34=Impedance
+ParameterUpdate34=1
+ParameterName35=Iout(Max)(A)
+ParameterUpdate35=1
+ParameterName36=Iq(Typ)(mA)
+ParameterUpdate36=1
+ParameterName37=KNEE
+ParameterUpdate37=1
+ParameterName38=LatestRevisionDate
+ParameterUpdate38=1
+ParameterName39=LatestRevisionNote
+ParameterUpdate39=1
+ParameterName40=Library Reference
+ParameterUpdate40=1
+ParameterName41=Manufacturer
+ParameterUpdate41=1
+ParameterName42=MAX_TEMP
+ParameterUpdate42=1
+ParameterName43=Mounting Technology
+ParameterUpdate43=1
+ParameterName44=PackageDescription
+ParameterUpdate44=1
+ParameterName45=PackageReference
+ParameterUpdate45=1
+ParameterName46=PackageVersion
+ParameterUpdate46=1
+ParameterName47=Part No.
+ParameterUpdate47=1
+ParameterName48=partNo
+ParameterUpdate48=1
+ParameterName49=PartNumber
+ParameterUpdate49=1
+ParameterName50=POWER
+ParameterUpdate50=1
+ParameterName51=PROD_ID
+ParameterUpdate51=1
+ParameterName52=PSpiceTemplate
+ParameterUpdate52=1
+ParameterName53=Published
+ParameterUpdate53=1
+ParameterName54=Publisher
+ParameterUpdate54=1
+ParameterName55=Rating
+ParameterUpdate55=1
+ParameterName56=SLOPE
+ParameterUpdate56=1
+ParameterName57=SPLIT_INST
+ParameterUpdate57=1
+ParameterName58=SubFamily
+ParameterUpdate58=1
+ParameterName59=Supplier
+ParameterUpdate59=1
+ParameterName60=Supplier 1
+ParameterUpdate60=1
+ParameterName61=Supplier 2
+ParameterUpdate61=1
+ParameterName62=Supplier 3
+ParameterUpdate62=1
+ParameterName63=Supplier 4
+ParameterUpdate63=1
+ParameterName64=Supplier 5
+ParameterUpdate64=1
+ParameterName65=Supplier Part Number 1
+ParameterUpdate65=1
+ParameterName66=Supplier Part Number 2
+ParameterUpdate66=1
+ParameterName67=Supplier Part Number 3
+ParameterUpdate67=1
+ParameterName68=Supplier Part Number 4
+ParameterUpdate68=1
+ParameterName69=Supplier Part Number 5
+ParameterUpdate69=1
+ParameterName70=SWAP_INFO
+ParameterUpdate70=1
+ParameterName71=TC1
+ParameterUpdate71=1
+ParameterName72=TC2
+ParameterUpdate72=1
+ParameterName73=TOLERANCE
+ParameterUpdate73=1
+ParameterName74=Value
+ParameterUpdate74=1
+ParameterName75=Vdo(Typ)(mV)
+ParameterUpdate75=1
+ParameterName76=Vin(Max)(V)
+ParameterUpdate76=1
+ParameterName77=Vin(Min)(V)
+ParameterUpdate77=1
+ParameterName78=VOLTAGE
+ParameterUpdate78=1
+ParameterName79=Vout Adj(Max)(V)
+ParameterUpdate79=1
+ParameterName80=Vout Adj(Min)(V)
+ParameterUpdate80=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0402
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=0603-RES
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=1608[0603]
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=465031712505
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=ANTENNA_DN007AN
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=Battery Terminal
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=bridge_254mm
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=bridge_508mm
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=C1206
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=C1210
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=C2512
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Crystal 4-SMD 5.0x3.2mm
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=DCC6C_3.0x3.0mm
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=EXB28V
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=FIREFLY_MICRO_BOARD
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=Header 1.27mm 2x5 SMD
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=HUSTSAN_SMA10V21TGGAN
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=LED-0603
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=MicroUSB_TypeB
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=NC7SZ04_SC70
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=nd2016da
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=nd2520da
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=nd3225da
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=nd3225da - nd2520da
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=nd5032da
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=nd6035da
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=nd7050da - enlarge
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=OSCCC250X320X80-4L
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=pin_1.1mm
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=pin_1mm
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=pin_SMD
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=PQFN5X5-32_V
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=QFN50P700X700X100_HS-49N
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=rlc_1206_smd
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=rlc_1210_smd
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=rlc_1812_smd
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=rlc_201_smd
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=rlc_402_smd
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=rlc_603_smd
+ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=rlc_805_smd
+ModelUpdate39=1
+ModelType40=PCBLIB
+ModelName40=sc44_3.8x3.8mm
+ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=SC70-6
+ModelUpdate41=1
+ModelType42=PCBLIB
+ModelName42=SMA END LAUNCH JACK RECEPTACLE
+ModelUpdate42=1
+ModelType43=PCBLIB
+ModelName43=SMA END LAUNCH JACK RECEPTACLE SHORT
+ModelUpdate43=1
+ModelType44=PCBLIB
+ModelName44=SMA Straight
+ModelUpdate44=1
+ModelType45=PCBLIB
+ModelName45=SMA Straight SMD
+ModelUpdate45=1
+ModelType46=PCBLIB
+ModelName46=SOT23-3
+ModelUpdate46=1
+ModelType47=PCBLIB
+ModelName47=TI-DCY4_L
+ModelUpdate47=1
+ModelType48=PCBLIB
+ModelName48=TI-DCY4_M
+ModelUpdate48=1
+ModelType49=PCBLIB
+ModelName49=TI-DCY4_N
+ModelUpdate49=1
+ModelType50=PCBLIB
+ModelName50=vqfn28_6x6mm
+ModelUpdate50=1
+ModelType51=PCBLIB
+ModelName51=WE-CBA_0603_HC
+ModelUpdate51=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType52=SI
+ModelName52=Cap Semi
+ModelUpdate52=1
+ModelType53=SI
+ModelName53=Connector
+ModelUpdate53=1
+ModelType54=SI
+ModelName54=Inductor
+ModelUpdate54=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType55=SIM
+ModelName55=CAP
+ModelUpdate55=1
+ModelType56=SIM
+ModelName56=CAPACITOR
+ModelUpdate56=1
+ModelType57=SIM
+ModelName57=INDUCTOR
+ModelUpdate57=1
+ModelType58=SIM
+ModelName58=RESISTOR
+ModelUpdate58=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
