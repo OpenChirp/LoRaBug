@@ -206,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NTDAMSRR
+DocumentUniqueId=SSNNGJBH
 
 [Document11]
 DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.SchLib
@@ -223,7 +223,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UOGYLPVA
+DocumentUniqueId=VDYKJFPH
 
 [Document12]
 DocumentPath=TIRefDesignConvertedLibs\CC26xx_7x7_Diff.PcbLib
@@ -702,23 +702,6 @@ GenerateClassCluster=0
 DocumentUniqueId=STARMFVE
 
 [Document40]
-DocumentPath=ManufacturerLibs\Peripherals.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document41]
 DocumentPath=LoRaBugBoard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=PCBFireflyCaseTest.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYPWAKIO
 
-[Document43]
+[Document42]
 DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,6 +751,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LoRaBugBoard\Design Rule Check - PCBFireflyCase.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
