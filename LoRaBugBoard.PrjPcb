@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for LoRaBugBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -785,12 +785,12 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for LoRaBugBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -921,7 +921,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1070,7 +1070,7 @@ PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1092,7 +1092,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1164,7 +1164,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1201,7 +1201,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1381,7 +1381,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1420,7 +1420,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -2312,6 +2312,41 @@ ModelUpdate58=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=DIO5|NetColor=$00FF6EFF
+Net2=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net3=NetName=HDR_ADIO6|NetColor=$00FF6EFF
+Net4=NetName=PB6|NetColor=$00FF6EFF
+Net5=NetName=DIO6|NetColor=$00FF6EFF
+Net6=NetName=MCU_DIO7|NetColor=$00FF6EFF
+Net7=NetName=DIO16|NetColor=$00FF6EFF
+Net8=NetName=DIO7|NetColor=$00FF6EFF
+Net9=NetName=ADIO1|NetColor=$00FF6EFF
+Net10=NetName=MCU_DIO23|NetColor=$00FF6EFF
+Net11=NetName=PE3|NetColor=$00FF6EFF
+Net12=NetName=PD0/SCL|NetColor=$00FF6EFF
+Net13=NetName=ADIO6|NetColor=$00FF6EFF
+Net14=NetName=PD1/SDA|NetColor=$00FF6EFF
+Net15=NetName=DIO23|NetColor=$00FF6EFF
+Net16=NetName=MCU_DIO24|NetColor=$00FF6EFF
+Net17=NetName=PB7|NetColor=$00FF6EFF
+Net18=NetName=DIO24|NetColor=$00FF6EFF
+Net19=NetName=HDR_ADIO1|NetColor=$00FF6EFF
+Net20=NetName=MCU_DIO25|NetColor=$00FF6EFF
+Net21=NetName=MCU_DIO16|NetColor=$00FF6EFF
+Net22=NetName=DIO26|NetColor=$00FF6EFF
+Net23=NetName=ADIO3|NetColor=$00FF6EFF
+Net24=NetName=DIO29|NetColor=$00FF6EFF
+Net25=NetName=MCU_RX1|NetColor=$00FF6EFF
+Net26=NetName=MCU_DIO6|NetColor=$00FF6EFF
+Net27=NetName=PG0|NetColor=$00FF6EFF
+Net28=NetName=MCU_DIO5|NetColor=$00FF6EFF
+Net29=NetName=DIO27|NetColor=$00FF6EFF
+Net30=NetName=DIO30|NetColor=$00FF6EFF
+Net31=NetName=DIO25|NetColor=$00FF6EFF
+Net32=NetName=HDR_ADIO3|NetColor=$00FF6EFF
+Net33=NetName=MCU_TX1|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
