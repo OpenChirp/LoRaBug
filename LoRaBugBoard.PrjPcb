@@ -735,8 +735,63 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRBTUOMV
 
+[Document42]
+DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC-SMD.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC-THT.Schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LoRaBugBoard\Design Rule Check - PCBFireflyCase.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LoRaBugBoard\LoRaBugBoard.nsx
 DItemRevisionGUID=
 
 [Configuration1]
@@ -923,8 +978,8 @@ Name=Simulator Outputs
 Description=
 TargetPrinter=Lovecraft - CIC2132 (HP Color LaserJet CP4520 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
+OutputType1=SIMPLISSimulation
+OutputName1=SIMPLIS
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
@@ -933,11 +988,13 @@ OutputName2=SIMetrix
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
+OutputType3=AdvSimNetlist
+OutputName3=Mixed Sim
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource= |DC_PrimaryStart=0|DC_PrimaryStop=0|DC_PrimaryStep=0|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=True|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle=50|TRAN_StartTime=0|TRAN_StopTime=5E-6|TRAN_StepTime=2E-8|TRAN_MaxStepTime=2E-8|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=False|TRAN_UseInitialConditions=False|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=0|Noise_Stop=0|Noise_TestPoints=0|Noise_PointsPerSummary=0|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1= |ParamSweep_Start1=0|ParamSweep_Stop1=0|ParamSweep_Step1=0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -2314,39 +2371,42 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=DIO5|NetColor=$00FF6EFF
-Net2=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net1=NetName=PB6|NetColor=$00FF6EFF
+Net2=NetName=HDR_ADIO3|NetColor=$00FF6EFF
 Net3=NetName=HDR_ADIO6|NetColor=$00FF6EFF
-Net4=NetName=PB6|NetColor=$00FF6EFF
+Net4=NetName=DIO16|NetColor=$00FF6EFF
 Net5=NetName=DIO6|NetColor=$00FF6EFF
 Net6=NetName=MCU_DIO7|NetColor=$00FF6EFF
-Net7=NetName=DIO16|NetColor=$00FF6EFF
+Net7=NetName=MCU_DIO2|NetColor=clYellow
 Net8=NetName=DIO7|NetColor=$00FF6EFF
 Net9=NetName=ADIO1|NetColor=$00FF6EFF
 Net10=NetName=MCU_DIO23|NetColor=$00FF6EFF
 Net11=NetName=PE3|NetColor=$00FF6EFF
-Net12=NetName=PD0/SCL|NetColor=$00FF6EFF
-Net13=NetName=ADIO6|NetColor=$00FF6EFF
-Net14=NetName=PD1/SDA|NetColor=$00FF6EFF
-Net15=NetName=DIO23|NetColor=$00FF6EFF
-Net16=NetName=MCU_DIO24|NetColor=$00FF6EFF
-Net17=NetName=PB7|NetColor=$00FF6EFF
-Net18=NetName=DIO24|NetColor=$00FF6EFF
-Net19=NetName=HDR_ADIO1|NetColor=$00FF6EFF
-Net20=NetName=MCU_DIO25|NetColor=$00FF6EFF
-Net21=NetName=MCU_DIO16|NetColor=$00FF6EFF
-Net22=NetName=DIO26|NetColor=$00FF6EFF
-Net23=NetName=ADIO3|NetColor=$00FF6EFF
-Net24=NetName=DIO29|NetColor=$00FF6EFF
-Net25=NetName=MCU_RX1|NetColor=$00FF6EFF
-Net26=NetName=MCU_DIO6|NetColor=$00FF6EFF
-Net27=NetName=PG0|NetColor=$00FF6EFF
-Net28=NetName=MCU_DIO5|NetColor=$00FF6EFF
-Net29=NetName=DIO27|NetColor=$00FF6EFF
-Net30=NetName=DIO30|NetColor=$00FF6EFF
-Net31=NetName=DIO25|NetColor=$00FF6EFF
-Net32=NetName=HDR_ADIO3|NetColor=$00FF6EFF
-Net33=NetName=MCU_TX1|NetColor=$00FF6EFF
+Net12=NetName=MCU_TX1|NetColor=$00FF6EFF
+Net13=NetName=PD0/SCL|NetColor=$00FF6EFF
+Net14=NetName=ADIO6|NetColor=$00FF6EFF
+Net15=NetName=PD1/SDA|NetColor=$00FF6EFF
+Net16=NetName=DIO23|NetColor=$00FF6EFF
+Net17=NetName=MCU_DIO24|NetColor=$00FF6EFF
+Net18=NetName=PB7|NetColor=$00FF6EFF
+Net19=NetName=DIO24|NetColor=$00FF6EFF
+Net20=NetName=HDR_ADIO1|NetColor=$00FF6EFF
+Net21=NetName=MCU_DIO25|NetColor=$00FF6EFF
+Net22=NetName=MCU_DIO16|NetColor=$00FF6EFF
+Net23=NetName=FTDI_TX|NetColor=clYellow
+Net24=NetName=DIO26|NetColor=$00FF6EFF
+Net25=NetName=ADIO3|NetColor=$00FF6EFF
+Net26=NetName=DIO29|NetColor=$00FF6EFF
+Net27=NetName=MCU_RX1|NetColor=$00FF6EFF
+Net28=NetName=MCU_DIO6|NetColor=$00FF6EFF
+Net29=NetName=PG0|NetColor=$00FF6EFF
+Net30=NetName=MCU_DIO5|NetColor=$00FF6EFF
+Net31=NetName=DIO27|NetColor=$00FF6EFF
+Net32=NetName=DIO30|NetColor=$00FF6EFF
+Net33=NetName=DIO25|NetColor=$00FF6EFF
+Net34=NetName=DIO2|NetColor=clYellow
+Net35=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net36=NetName=DIO5|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
