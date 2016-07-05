@@ -820,6 +820,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVYKAAWE
 
+[Document47]
+DocumentPath=PCBFireflyCasePanels.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SWSVCAIU
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase-RoundHoles.TXT
 DItemRevisionGUID=
@@ -829,50 +846,62 @@ DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.DRR
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.EXTREP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GM1
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.LDP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.REP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.RUL
 DItemRevisionGUID=
 
@@ -1920,7 +1949,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1933,6 +1962,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=1102|FormHeight=791|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=OutputConfigurationParameter1
+Configuration1_Item5==SimpleBOMView|SimpleBOMMode=0
+Configuration1_Name6=SortOrder
+Configuration1_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name7=VisibleOrder
+Configuration1_Item7=Comment=125|Description=125|Designator=156|Footprint=115|LibRef=115|Quantity=114
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1953,6 +1996,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
