@@ -1,0 +1,30 @@
+Trace Thickness:      1       oz/ft^2
+Substrate Height:     62      mil
+Trace Width:          113.25  mil
+Substrate dialectric: 4.58    
+Impedance:            50Ohms
+
+
+1oz/ft^2 == 1.4mil == 35.6um
+
+####### AP Circuits #########
+
+Drill Sizes
+------------------------
+Inch :(in mils) :x1.75
+------------------------
+.0200 (20   mil) 35
+.0280 (28   mil) 49
+.0350 (35   mil) 61.25
+.0380 (38   mil) 66.5
+.0420 (42   mil) 73.5
+.0520 (52   mil) 91
+.0595 (59.5 mil) 104.125
+.0860 (86   mil) 150.5
+.1250 (125  mil) 218.75
+.1520 (152  mil) 266
+
+
+
+BMI-S-103
+BMI-S-203-F 26.21X26.21 (2PARTS)
