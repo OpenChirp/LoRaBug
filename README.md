@@ -1,4 +1,4 @@
-pecs
+# Specs
 * Provide 500mA 3.3V (3.3-3.4V) from USB.
 
 # Info
