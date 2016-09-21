@@ -11,6 +11,8 @@
 * V2
     - Fixed button NC/NO leads. Pulldown now pulls the signal low as initially designed.
     - Fixed leakage current through the linear regulator
+    - Changed FTDI footprint to have longer leads for hand soldering
     - Used a single dual N-channel mosfet chip to control LEDs
     - Changed the fiducial location
+    - Changed some components to consolidate count
 * V1 - Initial Release
