@@ -1,4 +1,6 @@
 # Specs
+* TI CC2650 MCU with BLE and 802.15.4 support
+* SX1276 LoRa radio
 * Provide 500mA 3.3V (3.3-3.4V) from USB.
 
 # Info
