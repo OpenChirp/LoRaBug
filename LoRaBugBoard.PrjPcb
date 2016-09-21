@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for LoRaBugBoard
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -821,43 +821,63 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase-RoundHoles.TXT
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase-SlotHoles.TXT
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.DRR
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GBS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GM1
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCase.GTS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -903,10 +923,10 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for LoRaBugBoard
 
 [OutputGroup1]
 Name=Netlist Outputs
