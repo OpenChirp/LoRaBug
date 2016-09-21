@@ -1,3 +1,5 @@
+![LoRaBugBoard V2 3D Picture](Info/LoRaBugBoardV2_3D.jpg)
+
 # Specs
 * TI CC2650 MCU with BLE and 802.15.4 support
 * SX1276 LoRa radio
