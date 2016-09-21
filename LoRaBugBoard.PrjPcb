@@ -787,40 +787,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=ManufacturerLibs\FTDI FT Series\FTDI FT Series.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MQTJKVCO
-
-[Document46]
-DocumentPath=ManufacturerLibs\FTDI FT Series\FTDI FT Series.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KVYKAAWE
-
-[Document47]
 DocumentPath=Project Outputs for LoRaBugBoard\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=Project Outputs for LoRaBugBoard\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3092,7 +3058,7 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=PB6|NetColor=$00FF6EFF
-Net2=NetName=HDR_ADIO3|NetColor=$00FF6EFF
+Net2=NetName=MCU_DIO26|NetColor=$00FF6EFF
 Net3=NetName=HDR_ADIO6|NetColor=$00FF6EFF
 Net4=NetName=DIO6|NetColor=$00FF6EFF
 Net5=NetName=MCU_DIO7|NetColor=$00FF6EFF
@@ -3119,8 +3085,8 @@ Net25=NetName=MCU_DIO5|NetColor=$00FF6EFF
 Net26=NetName=DIO27|NetColor=$00FF6EFF
 Net27=NetName=DIO30|NetColor=$00FF6EFF
 Net28=NetName=DIO25|NetColor=$00FF6EFF
-Net29=NetName=MCU_TX1|NetColor=$00FF6EFF
-Net30=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net29=NetName=HDR_ADIO3|NetColor=$00FF6EFF
+Net30=NetName=MCU_TX1|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
