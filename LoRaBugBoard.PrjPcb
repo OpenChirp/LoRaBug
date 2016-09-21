@@ -158,23 +158,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AQXLYMMB
 
 [Document8]
-DocumentPath=PCBFireflyCaseV2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AQXLYMMB
-
-[Document9]
 DocumentPath=SX1276Radio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRXFCJTV
 
-[Document10]
+[Document9]
 DocumentPath=SX1276Radio.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFFHLRAI
 
-[Document12]
+[Document11]
 DocumentPath=SemtechRefDesignLibs\SX1276_e268v01a.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQLHHGNN
 
-[Document13]
+[Document12]
 DocumentPath=TIRefDesignConvertedLibs\CC26xx_7x7_Diff.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIFSMQJP
 
-[Document14]
+[Document13]
 DocumentPath=TIRefDesignConvertedLibs\CC26XX_7X7_DIFF_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNJCPYRJ
 
-[Document15]
+[Document14]
 DocumentPath=FTDIUSB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBBHGDQV
 
-[Document16]
+[Document15]
 DocumentPath=FTDIUSB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Main.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=Sparkfun\SparkFun-LED.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=Sparkfun\SparkFun-LED.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEPKOPLR
 
-[Document20]
+[Document19]
 DocumentPath=Sparkfun\SparkFun-Resistors.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=Sparkfun\SparkFun-Resistors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=Sparkfun\SparkFun-PowerIC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=Sparkfun\SparkFun-PowerIC.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=Sparkfun\SparkFun-DiscreteSemi.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHOMHKSN
 
-[Document25]
+[Document24]
 DocumentPath=Sparkfun\SparkFun-DiscreteSemi.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQUVDXBL
 
-[Document26]
+[Document25]
 DocumentPath=Sparkfun\SparkFun-Electromechanical.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=Sparkfun\SparkFun-Electromechanical.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=Sparkfun\SparkFun-Passives.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=Sparkfun\SparkFun-Passives.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIMCPXEC
 
-[Document30]
+[Document29]
 DocumentPath=Sparkfun\SparkFun-Retired.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=Sparkfun\SparkFun-Retired.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXJGHSRN
 
-[Document32]
+[Document31]
 DocumentPath=Sparkfun\User-Submitted.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=Sparkfun\User-Submitted.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXCHKDWR
 
-[Document34]
+[Document33]
 DocumentPath=ManufacturerLibs\WS-PBSU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBEXIFFO
 
-[Document35]
+[Document34]
 DocumentPath=ManufacturerLibs\WS-PBSU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=ManufacturerLibs\WS-TASV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSHJXAUE
 
-[Document37]
+[Document36]
 DocumentPath=ManufacturerLibs\WS-TASV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUKECLDM
 
-[Document38]
+[Document37]
 DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STARMFVE
 
-[Document39]
+[Document38]
 DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXONSMRQ
 
-[Document41]
+[Document40]
 DocumentPath=Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRBTUOMV
 
-[Document42]
+[Document41]
 DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC-SMD.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC-THT.Schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,6 +768,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document44]
+DocumentPath=PCBFireflyCaseV2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MMQHQRSC
 
 [Document45]
 DocumentPath=Project Outputs for LoRaBugBoard\CAMtastic1.Cam
@@ -3058,7 +3058,7 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=PB6|NetColor=$00FF6EFF
-Net2=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net2=NetName=MCU_TX1|NetColor=$00FF6EFF
 Net3=NetName=HDR_ADIO6|NetColor=$00FF6EFF
 Net4=NetName=DIO6|NetColor=$00FF6EFF
 Net5=NetName=MCU_DIO7|NetColor=$00FF6EFF
@@ -3085,8 +3085,8 @@ Net25=NetName=MCU_DIO5|NetColor=$00FF6EFF
 Net26=NetName=DIO27|NetColor=$00FF6EFF
 Net27=NetName=DIO30|NetColor=$00FF6EFF
 Net28=NetName=DIO25|NetColor=$00FF6EFF
-Net29=NetName=HDR_ADIO3|NetColor=$00FF6EFF
-Net30=NetName=MCU_TX1|NetColor=$00FF6EFF
+Net29=NetName=MCU_DIO26|NetColor=$00FF6EFF
+Net30=NetName=HDR_ADIO3|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
