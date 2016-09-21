@@ -16,3 +16,38 @@
     - Changed the fiducial location
     - Changed some components to consolidate count
 * V1 - Initial Release
+
+# Contribution Info
+
+## Generating Manufacturer Files
+To generate the manufacturer files for APCircuits.com, you need to generate the Gerbers(with outline), Aperture file, and NC Drill file.
+
+To generate the gerbers and aperture files, do the following:
+1. Click File -> Fabrication Output -> Gerber Files, when viewing a PCB Layout.
+2. Make sure that Top Overlay, Top Paste, Top Solder, Bottom Solder, Bottom Overlay(optional), and Mechanical 1 are selected in the Layers tab.
+3. Do not have anything selected in the Drill Drawing tab, and make sure that "Embedded aperture (RS274X)" is selected in the Aperture tab.
+4. Press Ok.
+
+To generate the NC Drill File, do the following:
+1. Click File -> Fabrication Output -> NC Drill Files, when viewing a PCB Layout.
+2. Just click Ok to the default settings.
+
+The previous operations place all the output files in the "Project Output for LoRaBugBoard" directory.
+You now just need to combine the following list of file into a zip archive. Make sure to copy in the
+README.txt from previous archives.
+
+Archive File List:
+
+PCBFireflyCase.apr
+PCBFireflyCase.DRR
+PCBFireflyCase.GBL
+PCBFireflyCase.GBO
+PCBFireflyCase.GBS
+PCBFireflyCase.GM1
+PCBFireflyCase.GTL
+PCBFireflyCase.GTO
+PCBFireflyCase.GTP
+PCBFireflyCase.GTS
+PCBFireflyCase-RoundHoles.TXT
+PCBFireflyCase-SlotHoles.TXT
+README.txt
