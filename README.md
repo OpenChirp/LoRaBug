@@ -53,3 +53,10 @@ PCBFireflyCase.GTS
 PCBFireflyCase-RoundHoles.TXT
 PCBFireflyCase-SlotHoles.TXT
 README.txt
+
+# Antennas
+
+| Description | Part Name   | Manufacturer | Connector |
+| ------------| ----------- | ------------ | --------- |
+| Standard yellow 915MHz LoRa 5.591" 1.2dBi | [NT-916-CW-HWR-SMA](http://www.linxtechnologies.com/resources/data-guides/ant-916-cw-hwr.pdf) | Linx Technologies | SMA-Male |
+| 4.256" 900MHz 3.0dBi | [APAMS-118](http://abracon.com/external-antenna/APAMS-118.pdf) | Abracon LLC | SMA-Male |
