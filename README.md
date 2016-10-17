@@ -40,19 +40,19 @@ README.txt from previous archives.
 
 Archive File List:
 
-PCBFireflyCase.apr
-PCBFireflyCase.DRR
-PCBFireflyCase.GBL
-PCBFireflyCase.GBO
-PCBFireflyCase.GBS
-PCBFireflyCase.GM1
-PCBFireflyCase.GTL
-PCBFireflyCase.GTO
-PCBFireflyCase.GTP
-PCBFireflyCase.GTS
-PCBFireflyCase-RoundHoles.TXT
-PCBFireflyCase-SlotHoles.TXT
-README.txt
+* PCBFireflyCase.apr
+* PCBFireflyCase.DRR
+* PCBFireflyCase.GBL
+* PCBFireflyCase.GBO
+* PCBFireflyCase.GBS
+* PCBFireflyCase.GM1
+* PCBFireflyCase.GTL
+* PCBFireflyCase.GTO
+* PCBFireflyCase.GTP
+* PCBFireflyCase.GTS
+* PCBFireflyCase-RoundHoles.TXT
+* PCBFireflyCase-SlotHoles.TXT
+* README.txt
 
 # Antennas
 
