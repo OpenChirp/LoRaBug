@@ -54,6 +54,10 @@ Archive File List:
 * PCBFireflyCase-SlotHoles.TXT
 * README.txt
 
+## Board Details
+* Pin mappings are detailed in the spreadsheet found [here](https://docs.google.com/spreadsheets/d/1lk55i37ZrpTx_7zy1oA4uAmHo3XsjOCir2L95xEN9fU/edit?usp=sharing).
+* You can find other information, such as the schematic and board renderings, in the [Info](Info/) directory.
+
 # Antennas
 
 | Description | Part Name   | Manufacturer | Connector |
