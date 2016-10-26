@@ -8,6 +8,31 @@
 # Info
 * The power supported by the USB is limited by the 500mA limit of diode D3 and the 600mA limit of the voltage regulator U9.
 * When using USB power, the 3.3V rail may swing to 3.4V. This is due to the linear regulator's ground pin voltage being raised by the inline mosfet Q4.
+* The SX1276 is said to be only able to support PA_BOOST +20dBm TX when the input voltage is greater than 2.4V. See section 5.4.3 in the [SX1276 datasheet][sx1276_datasheet].
+
+# Low Power Profile
+Other than the reverse leakage current, these values are totally unconfirmed. The values are pulled straight from the [datasheet][sx1276_datasheet].
+
+* Reverse leakage from battery through voltage regulation circuitry draws about **5 uA**.
+* [CC2650][cc2650_overview]
+    - Normal operation between 1.8 V and 3.8 V
+    - Standard MCU crystal is 32.768 MHz and the clock is software configurable
+    - Active-Mode draws **61 uA/MHz**
+    - Active-Mode Sensor Controller draws **8.2 uA/MHz**
+    - Standby draws **1 uA** (RTC Running and RAM/CPU Retention)
+    - Shutdown draws **100 nA** (Wake Up on External Events)
+    - Active-Mode RX draws **5.9 mA**
+    - Active-Mode TX at 0 dBm draws **6.1 mA**
+    - Active-Mode TX at +5dBm draws **9.1 mA**
+    - The sensor controller consumes less power than the [MSP430G2X][msp430_overview], which consumes 220 uA/MHz in active-mode and 0.7 uA in RTC mode.
+* [SX1276][sx1276_overview]
+    - Up to +17 dBm of RF output power which is maintained from 1.8 V to 3.7 V and +20 dBm from 2.4 V to 3.7 V. See section 5.1 of [datasheet][sx1276_datasheet].
+    - We have PA_BOOST connected to the HF (high frequency) side antenna. This means we output 915MHz HF signals through PA_BOOST.
+    - LoRa HF RX mode draws **10.3 mA**(125kHz bw) or **12.6 mA**(500kHz bw) with LNABoost off. See sections 2.5.1 and 2.5.5 of [datasheet][sx1276_datasheet].
+    - LoRa HF TX mode draws around **90 mA** for +17dBm PA_BOOST and somewhere around **120 mA** for +20dBm PA_BOOST.
+    - Sleep mode draws **0.2 uA**
+    - Idle mode (RC oscillator enabled) draw **1.5 uA**
+    - Standby mode (Crystal oscillator enabled) draw **1.6 mA**
 
 # Changelog
 * V2
@@ -64,3 +89,10 @@ Archive File List:
 | ------------| ----------- | ------------ | --------- |
 | Standard yellow 915MHz LoRa 5.591" 1.2dBi | [NT-916-CW-HWR-SMA](http://www.linxtechnologies.com/resources/data-guides/ant-916-cw-hwr.pdf) | Linx Technologies | SMA-Male |
 | 4.256" 900MHz 3.0dBi | [APAMS-118](http://abracon.com/external-antenna/APAMS-118.pdf) | Abracon LLC | SMA-Male |
+
+
+[cc2650_overview]: http://www.ti.com/product/CC2650
+[cc2650_brief_datasheet]: http://www.ti.com/lit/ds/symlink/cc2650.pdf
+[sx1276_overview]: http://www.semtech.com/wireless-rf/rf-transceivers/sx1276/
+[sx1276_datasheet]: http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf
+[msp430_overview]: http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/msp/ultra-low_power/msp430g2x_i2x/overview.page
