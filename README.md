@@ -16,7 +16,7 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
 * Reverse leakage from battery through voltage regulation circuitry draws about **5 uA**.
 * [CC2650][cc2650_overview]
     - Normal operation between 1.8 V and 3.8 V
-    - Standard MCU crystal is 32.768 MHz and the clock is software configurable
+    - The main MCU crystal is 24 MHz, which is doubled internally. There is also a 32 kHz clock for BLE. See section 6.9 in [overview datasheet][cc2650_brief_datasheet].
     - Active-Mode draws **61 uA/MHz**
     - Active-Mode Sensor Controller draws **8.2 uA/MHz**
     - Standby draws **1 uA** (RTC Running and RAM/CPU Retention)
@@ -24,7 +24,7 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
     - Active-Mode RX draws **5.9 mA**
     - Active-Mode TX at 0 dBm draws **6.1 mA**
     - Active-Mode TX at +5dBm draws **9.1 mA**
-    - The sensor controller consumes less power than the [MSP430G2X][msp430_overview], which consumes 220 uA/MHz in active-mode and 0.7 uA in RTC mode.
+    - The sensor controller(when cpu freq. scalled) consumes less power than the [MSP430G2X][msp430_overview], which consumes 220 uA/MHz in active-mode and 0.7 uA in RTC mode.
 * [SX1276][sx1276_overview]
     - Up to +17 dBm of RF output power which is maintained from 1.8 V to 3.7 V and +20 dBm from 2.4 V to 3.7 V. See section 5.1 of [datasheet][sx1276_datasheet].
     - We have PA_BOOST connected to the HF (high frequency) side antenna. This means we output 915MHz HF signals through PA_BOOST.
