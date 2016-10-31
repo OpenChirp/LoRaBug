@@ -90,6 +90,12 @@ Archive File List:
 | Standard yellow 915MHz LoRa 5.591" 1.2dBi | [NT-916-CW-HWR-SMA](http://www.linxtechnologies.com/resources/data-guides/ant-916-cw-hwr.pdf) | Linx Technologies | SMA-Male |
 | 4.256" 900MHz 3.0dBi | [APAMS-118](http://abracon.com/external-antenna/APAMS-118.pdf) | Abracon LLC | SMA-Male |
 
+# Accessories
+
+The board was designed to accept an RFI shield over the LoRa radio components.
+You can solder on a static can or use the two part removable can.
+* [Link](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598886&uq=636135062398767833) to the static can
+* Links to the [can frame](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598887&uq=636135062398757833) and the [can cover](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598884&uq=636135062398757833).
 
 [cc2650_overview]: http://www.ti.com/product/CC2650
 [cc2650_brief_datasheet]: http://www.ti.com/lit/ds/symlink/cc2650.pdf
