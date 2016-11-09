@@ -13,7 +13,7 @@
 # Low Power Profile
 Other than the reverse leakage current, these values are totally unconfirmed. The values are pulled straight from the [datasheet][sx1276_datasheet].
 
-* Reverse leakage from battery through voltage regulation circuitry has shown to draw **no measurable current**. Based on the datasheets, there is a possibility of 0.1 - 0.2uA draw.
+* Reverse leakage from battery through voltage regulation circuitry has shown to draw upwards of **80 nA**. Based on the datasheets, there is a possibility of 0.1 - 0.2uA draw.
 * [CC2650][cc2650_overview]
     - Normal operation between 1.8 V and 3.8 V
     - The main MCU crystal is 24 MHz, which is doubled internally. There is also a 32 kHz clock for BLE. See section 6.9 in [overview datasheet][cc2650_brief_datasheet].
