@@ -35,6 +35,10 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
     - Standby mode (Crystal oscillator enabled) draw **1.6 mA**
 
 # Changelog
+* V3 ***Coming Soon***
+    - Eaiser to use 1.27mm IO header
+    - Active low button
+    - Maybe FTDI TX/RX lines pulled into header
 * V2
     - Fixed button NC/NO leads. Pulldown now pulls the signal low as initially designed.
     - Fixed leakage current through the linear regulator
