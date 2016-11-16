@@ -37,8 +37,10 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
 # Changelog
 * V3 ***Coming Soon***
     - Eaiser to use 1.27mm IO header
+    - Access to VCC_NREG, the power feeding the onboard regulator
     - Active low button
-    - Maybe FTDI TX/RX lines pulled into header
+    - FTDI TX/RX lines pulled into header
+    - Removed onboard I2C resistors
 * V2
     - Fixed button NC/NO leads. Pulldown now pulls the signal low as initially designed.
     - Fixed leakage current through the linear regulator
