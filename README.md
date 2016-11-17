@@ -1,4 +1,4 @@
-![LoRaBugBoard V2 3D Picture](Info/LoRaBugBoardV2_3D.jpg)
+![LoRaBugBoard V3 3D Picture](Info/LoRaBugBoardV3_3D.png)
 
 # Specs
 * TI CC2650 MCU with BLE and 802.15.4 support
@@ -35,7 +35,7 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
     - Standby mode (Crystal oscillator enabled) draw **1.6 mA**
 
 # Changelog
-* V3 ***Coming Soon***
+* V3
     - Eaiser to use 1.27mm IO header
     - Access to VCC_NREG, the power feeding the onboard regulator
     - Active low button
