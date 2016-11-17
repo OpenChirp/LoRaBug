@@ -787,40 +787,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MMQHQRSC
 
 [Document45]
-DocumentPath=Project Outputs for LoRaBugBoard\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document46]
-DocumentPath=Project Outputs for LoRaBugBoard\CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document47]
 DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,64 +820,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNNVYFGX
 
+[Document47]
+DocumentPath=Project Outputs for LoRaBugBoard\LayoutV3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=Project Outputs for LoRaBugBoard\HolesV3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2-RoundHoles.TXT
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2-SlotHoles.TXT
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.DRR
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.EXTREP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GBS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GM1
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTO
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.GTS
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.LDP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.REP
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV2.RUL
+DocumentPath=Project Outputs for LoRaBugBoard\PCBFireflyCaseV3.RUL
 DItemRevisionGUID=
 
 [Configuration1]
