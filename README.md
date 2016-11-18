@@ -65,30 +65,47 @@ To generate the NC Drill File, do the following:
 1. Click File -> Fabrication Output -> NC Drill Files, when viewing a PCB Layout.
 2. Just click Ok to the default settings.
 
+To generate the pick and place coordinates file:
+1. Click File -> Assembly Outputs -> Generate pick and place files
+2. Ensure only the Text and Imperial options are checked and click Ok
+
 The previous operations place all the output files in the "Project Output for LoRaBugBoard" directory.
 You now just need to combine the following list of file into a zip archive. Make sure to copy in the
 README.txt from previous archives.
 
 Archive File List:
 
-* PCBFireflyCase.apr
-* PCBFireflyCase.DRR
-* PCBFireflyCase.GBL
-* PCBFireflyCase.GBO
-* PCBFireflyCase.GBS
-* PCBFireflyCase.GM1
-* PCBFireflyCase.GTL
-* PCBFireflyCase.GTO
-* PCBFireflyCase.GTP
-* PCBFireflyCase.GTS
-* PCBFireflyCase-RoundHoles.TXT
-* PCBFireflyCase-SlotHoles.TXT
+* PCBFireflyCaseV3.apr
+* PCBFireflyCaseV3.DRR
+* PCBFireflyCaseV3.GBL
+* PCBFireflyCaseV3.GBO
+* PCBFireflyCaseV3.GBS
+* PCBFireflyCaseV3.GM1
+* PCBFireflyCaseV3.GTL
+* PCBFireflyCaseV3.GTO
+* PCBFireflyCaseV3.GTP
+* PCBFireflyCaseV3.GTS
+* PCBFireflyCaseV3-RoundHoles.TXT
+* PCBFireflyCaseV3-SlotHoles.TXT
+* Pick Place for PCBFireflyCaseV3.txt
 * README.txt
 
 ## Board Details
 * Pin mappings are detailed in the spreadsheet found [here](https://docs.google.com/spreadsheets/d/1lk55i37ZrpTx_7zy1oA4uAmHo3XsjOCir2L95xEN9fU/edit?usp=sharing).
 * Board physical dimensions and header placement can be found [here](https://docs.google.com/drawings/d/1snO6Dwncqp3OL73APsFgQn0SESudZwlPjw8W5KeOZVo/edit?usp=sharing).
 * You can find other information, such as the schematic and board renderings, in the [Info](Info/) directory.
+
+## Testing the Hardware
+* ***Test FTDI, System UART, Bootloader Backdoor Trigger, and Onboard Voltage Regulator***
+  Ensure that the bootloader backdoor is configured to use the button. Ensure R20 is low enough to not trigger the bootloader after reset.
+  I previously had an issue where the pulldow(at the time) wasn't strong enough. Next, ensure you can actually enter the bootloader during reset.
+  To aid in this, I created a script called [trigger_bootloader.sh](Info/trigger_bootloader.sh) in the Info directory that sends the initialization
+  bytes to serial repeatedly. If you cat the serial device at the same time, you should see the bootloader respond.
+  Maybe do a `stty -F /dev/ttyUSB0 115200 && cat /dev/ttyUSB0 | hd`. Checkout the [CC2650 Bootloader Spec][cc2650_bootloader_spec].
+* ***Test LEDs***
+* ***Test Pins in GPIO Hedaer***
+* ***Test Debugging CC2650 Over Cortex Debug Header***
+* ***Test SX1276 Front End***
 
 # Antennas
 
@@ -109,3 +126,4 @@ You can solder on a static can or use the two part removable can.
 [sx1276_overview]: http://www.semtech.com/wireless-rf/rf-transceivers/sx1276/
 [sx1276_datasheet]: http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf
 [msp430_overview]: http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/msp/ultra-low_power/msp430g2x_i2x/overview.page
+[cc2650_bootloader_spec]: http://www.ti.com/lit/an/swra466a/swra466a.pdf
