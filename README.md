@@ -57,7 +57,7 @@ To generate the manufacturer files for APCircuits.com, you need to generate the 
 
 To generate the gerbers and aperture files, do the following:
 1. Click File -> Fabrication Output -> Gerber Files, when viewing a PCB Layout.
-2. Make sure that Top Overlay, Top Paste, Top Solder, Bottom Solder, Bottom Overlay(optional), and Mechanical 1 are selected in the Layers tab.
+2. Make sure that Top Overlay, Top Paste, Top Solder, Top Layer, Bottom Layer, Bottom Solder, Bottom Overlay(optional), and Mechanical 1 are selected in the Layers tab.
 3. Do not have anything selected in the Drill Drawing tab, and make sure that "Embedded aperture (RS274X)" is selected in the Aperture tab.
 4. Press Ok.
 
