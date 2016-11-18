@@ -87,6 +87,7 @@ Archive File List:
 
 ## Board Details
 * Pin mappings are detailed in the spreadsheet found [here](https://docs.google.com/spreadsheets/d/1lk55i37ZrpTx_7zy1oA4uAmHo3XsjOCir2L95xEN9fU/edit?usp=sharing).
+* Board physical dimensions and header placement can be found [here](https://docs.google.com/drawings/d/1snO6Dwncqp3OL73APsFgQn0SESudZwlPjw8W5KeOZVo/edit?usp=sharing).
 * You can find other information, such as the schematic and board renderings, in the [Info](Info/) directory.
 
 # Antennas
