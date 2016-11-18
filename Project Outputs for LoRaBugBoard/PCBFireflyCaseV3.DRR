@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCBFireflyCaseV3.PcbDoc   11/17/2016  3:56:35 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCBFireflyCaseV3-RoundHoles.TXT
+ASCII SlotHoles File : PCBFireflyCaseV3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             4         PTH        2.02inch (51.30mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        1.31inch (33.21mm)
+T3      20mil (0.508mm)                                           Round             323       PTH        32.22inch (818.46mm)
+T4      39mil (1mm)                                               Slot              2         PTH        1.18inch (30.00mm)
+T5      52mil (1.321mm)                                           Round             2         PTH        1.08inch (27.48mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              333
+
+Total Processing Time (hh:mm:ss) : 00:00:00
