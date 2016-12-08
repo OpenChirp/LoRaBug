@@ -1,4 +1,4 @@
-![LoRaBugBoard V3 3D Picture](Info/LoRaBugBoardV3_3D.png)
+![LoRaBugBoard V3.1 3D Picture](Info/LoRaBugBoardV3.1_3D.png)
 
 # Specs
 * TI CC2650 MCU with BLE and 802.15.4 support
