@@ -35,6 +35,9 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
     - Standby mode (Crystal oscillator enabled) draw **1.6 mA**
 
 # Changelog
+* V3.1
+    - Removed inverter and pullup/pulldown resistors from LoRa radio module for power saving
+    - Mapped RF_CTRL1 and RF_CTRL2 as complement control pair for RF switches for power saving
 * V3
     - Eaiser to use 1.27mm IO header
     - Access to VCC_NREG, the power feeding the onboard regulator
