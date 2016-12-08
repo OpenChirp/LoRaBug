@@ -767,7 +767,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MMQHQRSC
+DocumentUniqueId=IFNEAKLU
 
 [Document44]
 DocumentPath=PCBFireflyCaseV3.PcbDoc
@@ -787,6 +787,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MMQHQRSC
 
 [Document45]
+DocumentPath=PCBFireflyCaseV3.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MMQHQRSC
+
+[Document46]
 DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,14 +820,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document47]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -820,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNNVYFGX
 
-[Document47]
+[Document48]
 DocumentPath=Project Outputs for LoRaBugBoard\LayoutV3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=Project Outputs for LoRaBugBoard\HolesV3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
