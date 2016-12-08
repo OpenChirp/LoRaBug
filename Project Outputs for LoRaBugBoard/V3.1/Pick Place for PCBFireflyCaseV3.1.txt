@@ -1,0 +1,150 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R3         rlc_402_smd           1825mil   -255.346mil       1825mil   -255.346mil       1825mil   -233.693mil  T        270.00 Resistor       
+R8         rlc_402_smd           2231mil        455mil       2231mil        455mil   2252.653mil        455mil  T        180.00 Resistor       
+VNRG       pin_1mm                 64mil        541mil         31mil        737mil         64mil        541mil  T         90.00                
+U8         PQFN5X5-32_V_FTDI_BIG_VIAS_LEADS        592mil        521mil        592mil        521mil    611.487mil    404.077mil  T        135.00 FT232RQ-Reel   
+P3         HEADER_1.27MM_2X10_SMT_LOW-PROFILE        355mil          0mil        355mil          0mil    281.476mil        225mil  T        270.00 Header 1.27mm 2x10
+U7         QFN50P700X700X100_HS-49N   1151.578mil    290.707mil   1151.578mil    290.707mil    1043.31mil    153.896mil  T         90.00 CC2650F128RGZT 
+L8         rlc_402_smd           2294mil         91mil       2294mil         91mil   2272.347mil         91mil  T        360.00 Inductor       
+C48        CAPC0402(1005)60_N       1348mil         62mil       1348mil         62mil       1348mil     44.283mil  T         90.00 CAPACITOR      
+C76        CAPC0402(1005)60_N        383mil        422mil        383mil        422mil        383mil    439.716mil  T        270.00 DTR Rst        
+Y2         Crystal_4-SMD_5.0x3.2mm    730.121mil    -65.879mil    730.121mil    -65.879mil    777.365mil   -144.619mil  T         90.00 XTAL_4PIN_S    
+Y1         XTAL_FC-135N       1218.82mil   -171.578mil    1218.82mil   -171.578mil   1169.608mil   -171.578mil  T        360.00 CRYSTAL        
+U9         AP7365-SOT25_(high-density)       1075mil        815mil       1075mil        815mil   1024.803mil    852.402mil  T        360.00 3.3V 600mA LDO 
+U6         DCC6C_3.0x3.0mm       2251mil        220mil       2251mil        220mil   2286.433mil    172.756mil  T        180.00 SAW Filter     
+U5         SC70-6            2413.667mil        352mil   2413.667mil        352mil   2388.077mil    314.598mil  T         90.00 RF Switch      
+U4         DCC6C_3.0x3.0mm       2243mil       -188mil       2243mil       -188mil   2278.433mil   -235.244mil  T        180.00 SAW Filter     
+U2         SC70-6            2413.667mil   -338.636mil   2413.667mil   -338.636mil   2439.257mil   -301.235mil  T        270.00 RF Switch      
+U1         VQFN28_6X6MM_BIG_VIAS       1831mil          0mil       1831mil          0mil   1907.772mil    116.142mil  T        270.00 SX1276         
+S1         Push_Button           1577mil     748.76mil       1577mil        790mil    1385.07mil        715mil  T        360.00 Push Button    
+RXTX_RFMDO pin_SMD               1870mil       -200mil       1870mil       -200mil       1870mil       -200mil  T         90.00 Test Pin       
+R21        rlc_402_smd           1716mil       -336mil       1716mil       -336mil       1716mil   -314.346mil  T        270.00 Resistor       
+R20        0603-RES              1777mil        570mil       1777mil        570mil    1743.54mil        570mil  T        360.00 RES-00824      
+R18        0603-RES              1890mil        812mil       1890mil        812mil       1890mil     778.54mil  T         90.00 RES-00818      
+R17        0603-RES              1835mil        812mil       1835mil        812mil       1835mil     778.54mil  T         90.00 RES-00818      
+R16        RESC1005X40L      1054.519mil   -491.746mil   1054.519mil   -491.746mil   1054.519mil   -507.494mil  T         90.00 RESISTOR       
+R15        rlc_402_smd           2231mil        411mil       2231mil        411mil   2252.653mil        411mil  T        180.00 Resistor       
+R13        EXB28V                1663mil       -230mil       1663mil       -230mil   1654.648mil   -263.407mil  T         45.00 EXBN8VxxxJX    
+R12        RESC1005X40L          1347mil       -153mil       1347mil       -153mil   1362.748mil       -153mil  T        180.00 RESISTOR       
+R11        rlc_402_smd           2230mil        368mil       2230mil        368mil   2251.653mil        368mil  T        180.00 Resistor       
+R7         rlc_402_smd           2207mil       -296mil       2207mil       -296mil   2228.653mil       -296mil  T        180.00 Resistor       
+R6         rlc_402_smd           2208mil       -335mil       2208mil       -335mil   2229.653mil       -335mil  T        180.00 Resistor       
+R4         EXB28V                1642mil        101mil       1642mil        101mil   1633.648mil     67.594mil  T         45.00 EXBN8VxxxJX    
+R2         rlc_402_smd           2271mil       -416mil       2271mil       -416mil   2292.653mil       -416mil  T        180.00 Resistor       
+R1         rlc_402_smd           2272mil       -376mil       2272mil       -376mil   2250.347mil       -376mil  T        360.00 Resistor       
+Q2         FC6946010R_(high-density)       1953mil        639mil       1953mil        639mil   1972.685mil    667.543mil  T        270.00 Dual N-Channel Mosfet
+Q1         nd3225da_-_nd2520da   1693.945mil    325.543mil   1693.945mil    325.543mil   1725.441mil    284.205mil  T         90.00 Xtal           
+P2         MICROUSB_TYPEB     670.394mil    802.342mil        820mil        855mil    619.213mil    749.685mil  T        180.00 Micro USB Type-B
+P1         Header_1.27mm_2x5_SMT_Low-Profile       1327mil       -397mil       1327mil       -397mil       1227mil   -456.055mil  T        360.00 Cortex Debug Header
+L20        WE-CBA_0603_HC     826.963mil    659.211mil    826.963mil    659.211mil    826.963mil    691.691mil  T        270.00 62 O           
+L19        INDC1005X60L      1078.686mil    -68.684mil   1078.686mil    -68.684mil   1078.686mil    -52.936mil  T        270.00 INDUCTOR       
+L18        INDC1005X60L      1054.549mil   -331.495mil   1054.549mil   -331.495mil   1054.549mil   -315.747mil  T        270.00 INDUCTOR       
+L17        INDC1005X60L      1054.549mil   -206.751mil   1054.549mil   -206.751mil   1054.549mil   -191.003mil  T        270.00 INDUCTOR       
+L16        INDC1005X60L      1012.684mil      -1.33mil   1012.684mil      -1.33mil   1028.432mil      -1.33mil  T        180.00 INDUCTOR       
+L15        CAPC0805(2012)75_N       1192mil        625mil       1192mil        625mil   1156.567mil        625mil  T        360.00 INDUCTOR       
+L14        rlc_402_smd        2256.91mil   -642.761mil    2256.91mil   -642.761mil   2274.647mil   -630.341mil  T        215.00 Inductor       
+L13        rlc_402_smd           1942mil        242mil       1942mil        242mil       1942mil    263.654mil  T        270.00 Inductor       
+L12        rlc_402_smd           2000mil        220mil       2000mil        220mil   1978.347mil        220mil  T        360.00 Inductor       
+L11        rlc_402_smd           2254mil        641mil       2254mil        641mil   2271.738mil     628.58mil  T        145.00 Inductor       
+L10        rlc_402_smd           2443mil        219mil       2443mil        219mil       2443mil    197.346mil  T         90.00 Inductor       
+L9         rlc_402_smd           2406mil        112mil       2406mil        112mil   2389.412mil     98.081mil  T         40.00 Inductor       
+L7         rlc_402_smd           2000mil   -189.654mil       2000mil   -189.654mil   1978.347mil   -189.654mil  T        360.00 Inductor       
+L6         rlc_402_smd           2443mil       -186mil       2443mil       -186mil       2443mil   -164.346mil  T        270.00 Inductor       
+L5         rlc_402_smd       2428.604mil    -65.916mil   2428.604mil    -65.916mil       2423mil        -45mil  T        285.00 Inductor       
+L4         rlc_402_smd           2347mil         19mil       2347mil         19mil   2326.652mil     26.406mil  T        340.00 Inductor       
+L3         rlc_402_smd           2106mil         55mil       2106mil         55mil   2127.653mil         55mil  T        180.00 Inductor       
+L2         rlc_402_smd           2166mil         34mil       2166mil         34mil       2166mil     55.654mil  T        270.00 Inductor       
+L1         rlc_402_smd           2026mil        114mil       2026mil        114mil       2026mil    135.654mil  T        270.00 Inductor       
+J2         Battery_Terminal         87mil          0mil         87mil          0mil         87mil    255.905mil  T        360.00 Battery Terminal
+GND        pin_1mm                 64mil       -541mil         64mil       -541mil         64mil       -541mil  T         90.00 Test Pin       
+FL1        FIL_BLM18HE152SN1DL        818mil        543mil        818mil        543mil    845.559mil        543mil  T        180.00 BLM18HE152SN1  
+D2         LED-0603              1998mil     813.53mil       1998mil     813.53mil       1998mil     848.06mil  T        180.00 Red LED        
+D1         LED-0603              1944mil     813.53mil       1944mil     813.53mil       1944mil     848.06mil  T        180.00 Green LED      
+C75        1608[0603]            1180mil        825mil       1180mil        825mil       1180mil    797.441mil  T         90.00 Cap Semi       
+C74        1608[0603]             893mil        820mil        893mil        820mil        893mil    792.441mil  T         90.00 Cap Semi       
+C73        CAPC0603(1608)100_N        528mil        687mil        528mil        687mil    496.504mil        687mil  T        360.00 Cap Semi       
+C72        CAPC0603(1608)100_N        881mil        660mil        881mil        660mil        881mil    691.496mil  T        270.00 Cap Semi       
+C71        CAPC0603(1608)100_N        773mil        660mil        773mil        660mil        773mil    628.504mil  T         90.00 Cap Semi       
+C70        CAPC0402(1005)60_N        734mil         94mil        734mil         94mil    716.284mil         94mil  T        360.00 CAPACITOR      
+C69        CAPC0402(1005)60_N        845mil        -89mil        845mil        -89mil        845mil   -106.716mil  T         90.00 CAPACITOR      
+C68        CAPC0402(1005)60_N       1410mil        416mil       1410mil        416mil       1410mil    398.284mil  T         90.00 CAPACITOR      
+C67        CAPC0402(1005)60_N       1257mil       -101mil       1257mil       -101mil   1239.284mil       -101mil  T        360.00 CAPACITOR      
+C66        CAPC0402(1005)60_N    1174.82mil   -100.578mil    1174.82mil   -100.578mil   1192.537mil   -100.578mil  T        180.00 CAPACITOR      
+C65        CAPC0402(1005)60_N     1096.4mil      0.455mil     1096.4mil      0.456mil   1114.117mil      0.455mil  T        180.00 CAPACITOR      
+C64        CAPC0402(1005)60_N       1076mil       -580mil       1076mil       -580mil   1093.716mil       -580mil  T        180.00 CAPACITOR      
+C63        CAPC0402(1005)60_N   1036.852mil   -269.275mil   1036.852mil   -269.276mil   1019.136mil   -269.275mil  T        360.00 CAPACITOR      
+C62        CAPC0402(1005)60_N   1036.824mil   -143.896mil   1036.824mil   -143.896mil   1019.107mil   -143.896mil  T        360.00 CAPACITOR      
+C61        CAPC0402(1005)60_N   1054.519mil   -411.746mil   1054.519mil   -411.746mil   1054.519mil   -429.463mil  T         90.00 CAPACITOR      
+C59        CAPC0402(1005)60_N   1028.451mil    -66.729mil   1028.451mil    -66.729mil   1028.451mil    -84.445mil  T         90.00 CAPACITOR      
+C58        CAPC0402(1005)60_N        334mil        422mil        334mil        422mil        334mil    404.284mil  T         90.00 CAPACITOR      
+C57        CAPC0402(1005)60_N    932.755mil     -0.007mil    932.755mil     -0.007mil    915.038mil     -0.007mil  T        360.00 CAPACITOR      
+C56        CAPC0402(1005)60_N    980.841mil     84.019mil    980.841mil     84.019mil    980.841mil     66.302mil  T         90.00 CAPACITOR      
+C55        CAPC0402(1005)60_N    931.901mil     84.052mil    931.901mil     84.052mil    931.901mil     66.336mil  T         90.00 CAPACITOR      
+C54        CAPC0402(1005)60_N        941mil        222mil        941mil        222mil    928.472mil    209.472mil  T         45.00 CAPACITOR      
+C53        CAPC0603(1608)100_N       1195mil        695mil       1195mil        695mil   1163.504mil        695mil  T        360.00 CAPACITOR      
+C52        CAPC0603(1608)100_N       1031mil    626.496mil       1031mil    626.496mil       1031mil    657.992mil  T        270.00 CAPACITOR      
+C51        CAPC0603(1608)100_N       1092mil    626.496mil       1092mil    626.496mil       1092mil    657.992mil  T        270.00 CAPACITOR      
+C50        CAPC0402(1005)60_N        930mil        283mil        930mil        283mil    917.472mil    270.473mil  T         45.00 CAPACITOR      
+C49        CAPC0402(1005)60_N       1390mil        355mil       1390mil        355mil   1407.717mil        355mil  T        180.00 CAPACITOR      
+C47        rlc_402_smd           2195mil       -659mil       2195mil       -659mil    2182.58mil   -641.263mil  T        305.00 Cap            
+C46        rlc_402_smd           2292mil       -591mil       2292mil       -591mil    2279.58mil   -573.263mil  T        305.00 Cap            
+C45        rlc_402_smd           2480mil       -355mil       2480mil       -355mil       2480mil   -333.346mil  T        270.00 Cap            
+C43        rlc_402_smd           2354mil        411mil       2354mil        411mil       2354mil    432.654mil  T        270.00 Cap            
+C42        rlc_402_smd           2470mil        412mil       2470mil        412mil       2470mil    390.346mil  T         90.00 Cap            
+C41        rlc_402_smd       2192.855mil    658.701mil   2192.855mil    658.701mil   2180.435mil    640.964mil  T         55.00 Cap            
+C40        rlc_402_smd           2292mil        587mil       2292mil        587mil    2279.58mil    569.263mil  T         55.00 Cap            
+C39        rlc_402_smd           2414mil        451mil       2414mil        451mil       2414mil    472.654mil  T        270.00 Cap            
+C38        rlc_402_smd           2368mil        247mil       2368mil        247mil   2382.489mil    263.092mil  T        228.00 Cap            
+C37        rlc_402_smd           2059mil    241.654mil       2059mil    241.654mil       2059mil    263.307mil  T        270.00 Cap            
+C36        rlc_402_smd           2117mil        220mil       2117mil        220mil   2138.653mil        220mil  T        180.00 Cap            
+C35        rlc_402_smd           2026mil          0mil       2026mil          0mil   2047.653mil          0mil  T        180.00 Cap            
+C34        rlc_402_smd           2464mil        275mil       2464mil        275mil   2485.653mil        275mil  T        180.00 Cap            
+C33        rlc_402_smd           2485mil        219mil       2485mil        219mil       2485mil    240.653mil  T        270.00 Cap            
+C32        rlc_402_smd           2462mil        158mil       2462mil        158mil   2483.324mil     154.24mil  T        170.00 Cap            
+C31        rlc_402_smd           2430mil         85mil       2430mil         85mil   2446.588mil     98.918mil  T        220.00 Cap            
+C30        rlc_402_smd           2349mil        113mil       2349mil        113mil   2347.113mil    134.571mil  T        275.00 Cap            
+C29        rlc_402_smd           2162mil        114mil       2162mil        114mil       2162mil    135.654mil  T        270.00 Cap            
+C28        rlc_402_smd           2217mil         92mil       2217mil         92mil   2238.653mil         92mil  T        180.00 Cap            
+C27        rlc_402_smd           2061mil        -41mil       2061mil        -41mil   2082.653mil        -41mil  T        180.00 Cap            
+C26        rlc_402_smd           2061mil        -78mil       2061mil        -78mil   2082.653mil        -78mil  T        180.00 Cap            
+C25        CAPC0402(1005)60_N        930mil        532mil        930mil        532mil        930mil    514.284mil  T         90.00 CAPACITOR      
+C23        rlc_805_smd           1807mil        453mil       1807mil        453mil   1771.567mil        453mil  T        360.00 Cap            
+C22        rlc_402_smd           2355mil       -396mil       2355mil       -396mil       2355mil   -374.346mil  T        270.00 Cap            
+C21        rlc_402_smd        1662.99mil   -124.618mil    1662.99mil   -124.618mil    1662.99mil   -146.271mil  T         90.00 Cap            
+C20        rlc_402_smd           2414mil       -438mil       2414mil       -438mil       2414mil   -459.654mil  T         90.00 Cap            
+C19        rlc_402_smd           2360mil       -222mil       2360mil       -222mil   2375.311mil   -237.311mil  T        135.00 Cap            
+C18        rlc_402_smd           2120mil       -188mil       2120mil       -188mil   2141.653mil       -188mil  T        180.00 Cap            
+C17        rlc_402_smd           2062mil   -209.654mil       2062mil   -209.654mil       2062mil   -231.307mil  T         90.00 Cap            
+C16        rlc_402_smd           1940mil   -209.654mil       1940mil   -209.654mil       1940mil   -231.307mil  T         90.00 Cap            
+C15        rlc_402_smd           2464mil       -246mil       2464mil       -246mil   2485.654mil       -246mil  T        180.00 Cap            
+C14        rlc_402_smd           2483mil       -186mil       2483mil       -186mil       2483mil   -207.654mil  T         90.00 Cap            
+C13        rlc_402_smd       2461.607mil    -126.06mil   2461.607mil    -126.06mil    2483.26mil    -126.06mil  T        180.00 Cap            
+C12        rlc_402_smd           2464mil        -56mil       2464mil        -56mil   2469.604mil    -76.916mil  T        105.00 Cap            
+C11        rlc_402_smd           2421mil          7mil       2421mil          7mil   2436.311mil     22.311mil  T        225.00 Cap            
+C10        rlc_402_smd           2206mil         31mil       2206mil         31mil       2206mil      9.347mil  T         90.00 Cap            
+C9         rlc_402_smd       2265.541mil     41.504mil   2265.541mil     41.504mil   2286.866mil     37.744mil  T        170.00 Cap            
+C8         rlc_402_smd           2120mil        -58mil       2120mil        -58mil       2120mil    -79.653mil  T         90.00 Cap            
+C7         rlc_402_smd           2063mil        155mil       2063mil        155mil       2063mil    176.654mil  T        270.00 Cap            
+C5         rlc_402_smd       1788.339mil        223mil   1788.339mil        223mil   1788.339mil    244.653mil  T        270.00 Cap            
+C4         rlc_402_smd       1880.635mil     223.05mil   1880.635mil     223.05mil   1880.635mil    244.704mil  T        270.00 Cap            
+C3         rlc_402_smd           1843mil        223mil       1843mil        223mil       1843mil    244.654mil  T        270.00 Cap            
+C2         rlc_402_smd       1693.942mil    420.229mil   1693.942mil    420.229mil   1715.595mil    420.229mil  T        180.00 Cap            
+C1         rlc_402_smd       1694.046mil    231.321mil   1694.046mil    231.321mil   1672.393mil    231.321mil  T        360.00 Cap            
+ANT_LF     SMA_END_LAUNCH_JACK_RECEPTACLE_SHORT       2186mil    809.063mil       2186mil        813mil       2186mil        813mil  T        180.00 SMA            
+ANT_HF     SMA_END_LAUNCH_JACK_RECEPTACLE_SHORT       2186mil   -809.063mil       2186mil       -813mil       2186mil       -813mil  T          0.00 SMA            
+R5         EXB28V                1623mil         10mil       1623mil         10mil   1614.648mil    -23.407mil  T         45.00 EXBN8VxxxJX    
+S2         RFI_SHIELD_26.21X26.21MM_PADDED   2039.936mil     -0.039mil       2040mil          0mil   1527.804mil    242.949mil  T          0.00 RFI Shield 26.21x26.21mm
+R14        rlc_402_smd           1624mil       -309mil       1624mil       -309mil       1624mil   -287.346mil  T        270.00 Resistor       
+C60        CAPC0402(1005)60_N       1037mil       -394mil       1037mil       -394mil   1019.284mil       -394mil  T        360.00 CAPACITOR      
+J1         HUSTSAN_SMA10V21TGGAN_POLYGONPOUR_CUTOUT        739mil       -393mil        739mil       -393mil        739mil       -393mil  T         90.00 DNM            
+A1         ANTENNA_DN007AN_NO_MASK    1121.52mil   -607.976mil        979mil       -744mil   1054.984mil   -607.976mil  T          0.00 ANTENNA_DN007  
+Logo1      Logo_LoRa_Size1      -1005mil      -4995mil        129mil       -530mil      -1005mil      -4995mil  T        360.00 LoRa Logo      
+Fid1       Fiducial                85mil          0mil         85mil          0mil         85mil          0mil  T         90.00 Fiducial       
+Fid2       Fiducial              2096mil        566mil       2096mil        566mil       2096mil        566mil  T         90.00 Fiducial       
+Fid3       Fiducial              2700mil       -155mil       2700mil       -153mil       2700mil       -155mil  T         90.00 Fiducial       
+Fid4       Fiducial              2698mil        155mil       2698mil        155mil       2698mil        155mil  T         90.00 Fiducial       
+D3         DB2J20900L_(high-density)        949mil        756mil        949mil        756mil        949mil    804.228mil  T        270.00 Schottky Diode 
+Q4         FC6946010R_(high-density)       1304mil        841mil       1304mil        841mil   1284.315mil    812.457mil  T         90.00 Dual N-Channel Mosfet
+R19        0603-RES               280mil        515mil        280mil        515mil     246.54mil        515mil  T        360.00 RES-00818      
+

@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
 From  : Variant [[No Variations]] of Project [LoRaBugBoard.PrjPcb]
-   Generated File[Pick Place for PCBFireflyCaseV3.txt]
+   Generated File[Pick Place for PCBFireflyCaseV3.1.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:39:46 PM On 11/18/2016
+Finished Output Generation At 12:38:42 AM On 12/8/2016
