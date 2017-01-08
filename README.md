@@ -5,6 +5,18 @@
 * SX1276 LoRa radio
 * Provide 500mA 3.3V (3.3-3.4V) from USB.
 
+## Board Details
+* Pin mappings are detailed in the spreadsheet found [here](https://docs.google.com/spreadsheets/d/1lk55i37ZrpTx_7zy1oA4uAmHo3XsjOCir2L95xEN9fU/edit?usp=sharing).
+* Board physical dimensions and header placement can be found [here](https://docs.google.com/drawings/d/1snO6Dwncqp3OL73APsFgQn0SESudZwlPjw8W5KeOZVo/edit?usp=sharing).
+* You can find other information, such as the schematic and board renderings, in the [Info](Info/) directory.
+
+# Firmware Notes
+* You can detect the presence of a USB by checking if the FTDI TX and RX
+  pins are high. When the FTDI chip is activated, it pulls the TX and RX
+  lines high.
+  Additionally, this means the CC2650 should use push/pull and no pull-ups 
+  when communicating with the FTDI.
+
 # Info
 * The power supported by the USB is limited by the 500mA limit of diode D3 and the 600mA limit of the voltage regulator U9.
 * When using USB power, the 3.3V rail may swing to 3.4V. This is due to the linear regulator's ground pin voltage being raised by the inline mosfet Q4.
@@ -92,11 +104,6 @@ Archive File List:
 * PCBFireflyCaseV3-SlotHoles.TXT
 * Pick Place for PCBFireflyCaseV3.txt
 * README.txt
-
-## Board Details
-* Pin mappings are detailed in the spreadsheet found [here](https://docs.google.com/spreadsheets/d/1lk55i37ZrpTx_7zy1oA4uAmHo3XsjOCir2L95xEN9fU/edit?usp=sharing).
-* Board physical dimensions and header placement can be found [here](https://docs.google.com/drawings/d/1snO6Dwncqp3OL73APsFgQn0SESudZwlPjw8W5KeOZVo/edit?usp=sharing).
-* You can find other information, such as the schematic and board renderings, in the [Info](Info/) directory.
 
 ## Testing the Hardware
 * ***Test FTDI, System UART, Bootloader Backdoor Trigger, and Onboard Voltage Regulator***
