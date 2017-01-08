@@ -50,8 +50,9 @@ Other than the reverse leakage current, these values are totally unconfirmed. Th
 * V3.1
     - Removed inverter and pullup/pulldown resistors from LoRa radio module for power saving
     - Mapped RF_CTRL1 and RF_CTRL2 as complement control pair for RF switches for power saving
+    - Resolved SX1276 crystal caps manufacturing issue
 * V3
-    - Eaiser to use 1.27mm IO header
+    - Changed IO header to a 20pin 1.27mm for ease of use
     - Access to VCC_NREG, the power feeding the onboard regulator
     - Active low button
     - FTDI TX/RX lines pulled into header
@@ -126,7 +127,7 @@ Archive File List:
 
 # Accessories
 
-The board was designed to accept an ***RFI shield*** over the LoRa radio components.
+The board was designed to accept an **RFI shield** over the LoRa radio components.
 You can solder on a static can or use the two part removable can.
 * Static can [BMI-S-103](http://www.digikey.com/products/en?keywords=BMI-S-103). The preferred low-profile can is the BMI-S-111 by Laird.
 * Removable two part: The frame is [BMI-S-203-F](http://www.digikey.com/products/en?keywords=BMI-S-203-F) and the cover is [BMI-S-203-C](http://www.digikey.com/products/en?keywords=BMI-S-203-C).
