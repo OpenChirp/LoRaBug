@@ -126,10 +126,10 @@ Archive File List:
 
 # Accessories
 
-The board was designed to accept an RFI shield over the LoRa radio components.
+The board was designed to accept an ***RFI shield*** over the LoRa radio components.
 You can solder on a static can or use the two part removable can.
-* [Link](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598886&uq=636135062398767833) to the static can
-* Links to the [can frame](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598887&uq=636135062398757833) and the [can cover](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=210598884&uq=636135062398757833).
+* Static can [BMI-S-103](http://www.digikey.com/products/en?keywords=BMI-S-103). The preferred low-profile can is the BMI-S-111 by Laird.
+* Removable two part: The frame is [BMI-S-203-F](http://www.digikey.com/products/en?keywords=BMI-S-203-F) and the cover is [BMI-S-203-C](http://www.digikey.com/products/en?keywords=BMI-S-203-C).
 
 [cc2650_overview]: http://www.ti.com/product/CC2650
 [cc2650_brief_datasheet]: http://www.ti.com/lit/ds/symlink/cc2650.pdf
