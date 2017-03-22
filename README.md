@@ -132,6 +132,9 @@ You can solder on a static can or use the two part removable can.
 * Static can [BMI-S-103](http://www.digikey.com/products/en?keywords=BMI-S-103). The preferred low-profile can is the BMI-S-111 by Laird.
 * Removable two part: The frame is [BMI-S-203-F](http://www.digikey.com/products/en?keywords=BMI-S-203-F) and the cover is [BMI-S-203-C](http://www.digikey.com/products/en?keywords=BMI-S-203-C).
 
+The I/O header is a standard 1.27mm 2x10 pin header.
+You can use the [Harwin M50-3121045](http://www.digikey.com/products/en?keywords=M50-3121045) to interface with it.
+
 [cc2650_overview]: http://www.ti.com/product/CC2650
 [cc2650_brief_datasheet]: http://www.ti.com/lit/ds/symlink/cc2650.pdf
 [sx1276_overview]: http://www.semtech.com/wireless-rf/rf-transceivers/sx1276/
