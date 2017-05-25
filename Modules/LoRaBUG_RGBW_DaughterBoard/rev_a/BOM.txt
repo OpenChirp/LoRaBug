@@ -1,0 +1,15 @@
+Description			URL
+LED RGB DIFFUSED 4SMD		https://www.digikey.com/product-detail/en/cree-inc/CLMVB-FKA-CFHEHLCBB7A363/CLMVB-FKA-CFHEHLCBB7A363CT-ND/6138627
+Debug Connector Female		https://www.digikey.com/product-detail/en/harwin-inc/M50-3100545/952-1798-ND/3727767
+Debug Connector Male		https://www.digikey.com/product-detail/en/harwin-inc/M50-3600542/952-1389-ND/2264370
+475 Ohm Resistor 0603		https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-PA3J471V/P470BZCT-ND/5036331
+10uF 0603 10V			https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R61A106KE69J/490-14372-1-ND/6606833
+10uF 0603 25V			https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R61E106MA73D/490-7202-1-ND/3900486
+MOSFET 2N-CH 30V 40A		https://www.digikey.com/product-detail/en/nexperia-usa-inc/BUK9K5R1-30EX/1727-2468-1-ND/5725903
+IC REG LDO 3.3V 1A SOT223	https://www.digikey.com/product-detail/en/richtek-usa-inc/RT9164A-33GG/1028-1063-1-ND/3077883
+DIODE SCHOTTKY 30V 500MA SOD323	https://www.digikey.com/product-detail/en/on-semiconductor/NSR0530HT1G/NSR0530HT1GOSCT-ND/5761654
+SWITCH TACT SPST-NO 0.02A 12V 3.30mm x 3.10mm	https://www.digikey.com/product-detail/en/citizen/LS38G5-T/1642-1315-1-ND/5820730
+CONN 6POS 2.54MM SES 		https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1-2834016-6/A123832-ND/5872948
+CONN 5.0MM SIDE ENTRY MSC 2P_GY	https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/2834095-1/A124212-ND/6012659
+CONN RCPT 10POS SMD 1.27MM GOLD	https://www.digikey.com/product-detail/en/harwin-inc/M50-3100545/952-1798-ND/3727767
+CONN HDR 1.27MM SMD AU 10POS	https://www.digikey.com/product-detail/en/harwin-inc/M50-3600542/952-1389-ND/2264370
