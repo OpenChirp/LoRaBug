@@ -222,6 +222,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="2.54" y="27.94" size="1.9304" layer="94">Attribution Share-Alike 4.0 License</text>
 <text x="2.54" y="24.13" size="1.9304" layer="94"> https://creativecommons.org/licenses/by-sa/4.0/</text>
 <text x="1.27" y="11.43" size="2.54" layer="94">Design by:</text>
+<text x="20.32" y="10.16" size="1.778" layer="94">Abhinand Sukumar</text>
+<text x="98.044" y="11.43" size="2.7432" layer="94">1</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -14094,14 +14096,14 @@ Source: http://www.infineon.com/upload/Document/cmc_upload/documents/012/3615/SP
 <label x="127" y="198.12" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="13"/>
-<wire x1="-10.16" y1="10.16" x2="-17.78" y2="10.16" width="0.1524" layer="91"/>
-<label x="-25.4" y="10.16" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="IC1" gate="G$1" pin="CS#"/>
 <wire x1="228.6" y1="248.92" x2="220.98" y2="248.92" width="0.1524" layer="91"/>
 <label x="213.36" y="248.92" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$4" gate="G$1" pin="11"/>
+<wire x1="-10.16" y1="12.7" x2="-17.78" y2="12.7" width="0.1524" layer="91"/>
+<label x="-25.4" y="12.7" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="VREG_1" class="0">
@@ -14195,9 +14197,9 @@ Source: http://www.infineon.com/upload/Document/cmc_upload/documents/012/3615/SP
 <label x="162.56" y="289.56" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="11"/>
-<wire x1="-10.16" y1="12.7" x2="-17.78" y2="12.7" width="0.1524" layer="91"/>
-<label x="-25.4" y="12.7" size="1.778" layer="95"/>
+<pinref part="U$4" gate="G$1" pin="13"/>
+<wire x1="-10.16" y1="10.16" x2="-17.78" y2="10.16" width="0.1524" layer="91"/>
+<label x="-25.4" y="10.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">
