@@ -2,7 +2,7 @@
 
 An environmental sensor board with a Grid-EYE IR sensor array
 
-The board has the following sensor:
+## Sensors
 
 1. Panasonic Grid-EYE AMG8833
 2. Passive Infrared (Motion) Sensor - Panasonic EKMB1201112
@@ -11,7 +11,10 @@ The board has the following sensor:
 5. Environmental Sensor - Bosch BME680
 6. MEMS Microphone - Knowles SPU0410LR5H
 
-The board also holds a Macronix MX25R8035FZUIL0 SPI 8Mb NOR Flash chip.
+## Other components
+* Macronix MX25R8035FZUIL0 SPI 8Mb NOR Flash chip
+* Domain 1 Regulator - [LP5951MF-1.8](http://www.ti.com/lit/ds/symlink/lp5951.pdf)
+* Domain 2 P-Channel Mosfet - [DMP3010LK3](https://www.diodes.com/assets/Datasheets/DMP3010LK3.pdf)
 
 # Header Pins Usage
 
