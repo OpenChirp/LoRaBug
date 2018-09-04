@@ -45,7 +45,7 @@ Domain 1 is controlled by a 1.8V linear regulator. The Domain 1 enable signal to
 Domain 2 is controlled by a p-channel mosfet, thus the enable signal is active low.
 
 * GridEye
-* SPI FLash
+* SPI Flash
 
 # Protocols
 
