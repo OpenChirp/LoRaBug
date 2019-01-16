@@ -131,6 +131,11 @@ The board was designed to accept an **RFI shield** over the LoRa radio component
 You can solder on a static can or use the two part removable can.
 * Static can [BMI-S-103](http://www.digikey.com/products/en?keywords=BMI-S-103). The preferred low-profile can is the BMI-S-111 by Laird.
 * Removable two part: The frame is [BMI-S-203-F](http://www.digikey.com/products/en?keywords=BMI-S-203-F) and the cover is [BMI-S-203-C](http://www.digikey.com/products/en?keywords=BMI-S-203-C).
+* You can use a 10pin 1.27mm female-to-female IDC cable to connect the CC2650 Launchpad debugger.
+  One such cable is the [Harwin M50 Female-to-Female](https://www.digikey.com/product-detail/en/harwin-inc/M50-9100542/952-2568-ND/4953091) cable.
+* The SensorBug board uses a Tag-Connect TC2030 pin interface to pass JTAG through to the LoRaBug.
+  You can use the [TC2030-CTX](http://www.tag-connect.com/TC2030-CTX) cable to connect the
+  CC2650 Launchpad debugger.
 
 The I/O header is a standard 1.27mm 2x10 pin header.
 You can use the [Harwin M50-3121045](http://www.digikey.com/products/en?keywords=M50-3121045) to interface with it.
