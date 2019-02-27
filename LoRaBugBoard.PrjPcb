@@ -732,7 +732,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ANIWZWYF
+DocumentUniqueId=SRCSEEWE
 
 [Document42]
 DocumentPath=ManufacturerLibs\WE-SHC_rev15a\WE-SHC-THT.Schlib
@@ -749,7 +749,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KPAMNZPZ
+DocumentUniqueId=WWUGYSGH
 
 [Document43]
 DocumentPath=PCBFireflyCaseV2.PcbDoc
@@ -800,7 +800,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RFGRSDGL
+DocumentUniqueId=SDFWHEOW
 
 [Document46]
 DocumentPath=PCBFireflyCaseV4.PcbDoc
@@ -2382,7 +2382,7 @@ Type10=1
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
@@ -3147,29 +3147,30 @@ Net8=NetName=HDIO0|NetColor=$0000BE00
 Net9=NetName=MCU_DIO18|NetColor=$00FFFF6E
 Net10=NetName=DIO5|NetColor=$00FFFF6E
 Net11=NetName=HDIO1|NetColor=$0000BE00
-Net12=NetName=MCU_DIO7|NetColor=$0000BE00
-Net13=NetName=HDIO2|NetColor=$0000BE00
-Net14=NetName=MCU_DIO6|NetColor=$0000BE00
-Net15=NetName=DIO1|NetColor=$00FFFF6E
-Net16=NetName=MCU_DIO17|NetColor=$00FFFF6E
-Net17=NetName=DIO2|NetColor=$00FFFF6E
-Net18=NetName=DIO3|NetColor=$00FFFF6E
-Net19=NetName=DIO4|NetColor=$00FFFF6E
-Net20=NetName=ADIO3|NetColor=$006E6EFF
-Net21=NetName=ADIO5|NetColor=$006E6EFF
-Net22=NetName=ADIO6|NetColor=$006E6EFF
-Net23=NetName=MCU_DIO16|NetColor=$00FFFF6E
-Net24=NetName=MCU_DIO5|NetColor=$0000BE00
-Net25=NetName=MCU_DIO30|NetColor=$006E6EFF
-Net26=NetName=MCU_DIO20|NetColor=$00FFFF6E
-Net27=NetName=ADIO2|NetColor=$006E6EFF
-Net28=NetName=ADIO7|NetColor=$006E6EFF
-Net29=NetName=DIO0|NetColor=$00FFFF6E
-Net30=NetName=MCU_DIO25|NetColor=$006E6EFF
-Net31=NetName=ADIO4|NetColor=$006E6EFF
-Net32=NetName=MCU_DIO27|NetColor=$006E6EFF
-Net33=NetName=MCU_DIO26|NetColor=$006E6EFF
-Net34=NetName=MCU_DIO28|NetColor=$006E6EFF
+Net12=NetName=CBUS4|NetColor=$0000BE00
+Net13=NetName=MCU_DIO7|NetColor=$0000BE00
+Net14=NetName=HDIO2|NetColor=$0000BE00
+Net15=NetName=MCU_DIO6|NetColor=$0000BE00
+Net16=NetName=DIO1|NetColor=$00FFFF6E
+Net17=NetName=MCU_DIO17|NetColor=$00FFFF6E
+Net18=NetName=DIO2|NetColor=$00FFFF6E
+Net19=NetName=DIO3|NetColor=$00FFFF6E
+Net20=NetName=DIO4|NetColor=$00FFFF6E
+Net21=NetName=ADIO3|NetColor=$006E6EFF
+Net22=NetName=ADIO5|NetColor=$006E6EFF
+Net23=NetName=ADIO6|NetColor=$006E6EFF
+Net24=NetName=MCU_DIO16|NetColor=$00FFFF6E
+Net25=NetName=MCU_DIO5|NetColor=$0000BE00
+Net26=NetName=MCU_DIO30|NetColor=$006E6EFF
+Net27=NetName=MCU_DIO20|NetColor=$00FFFF6E
+Net28=NetName=ADIO2|NetColor=$006E6EFF
+Net29=NetName=ADIO7|NetColor=$006E6EFF
+Net30=NetName=DIO0|NetColor=$00FFFF6E
+Net31=NetName=MCU_DIO25|NetColor=$006E6EFF
+Net32=NetName=ADIO4|NetColor=$006E6EFF
+Net33=NetName=MCU_DIO27|NetColor=$006E6EFF
+Net34=NetName=MCU_DIO26|NetColor=$006E6EFF
+Net35=NetName=MCU_DIO28|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
